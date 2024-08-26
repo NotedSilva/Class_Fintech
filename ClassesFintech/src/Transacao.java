@@ -29,8 +29,6 @@ public class Transacao {
         System.out.println("Transferencia realizada com sucesso. No valor: " + valor + " de " + contaOrigem + " para " + contaDestino);
     }
 
-
-
     public void detalhesTransacao() {
         System.out.println("Detalhes da transação:");
         System.out.println("Id: " + idTransacao);

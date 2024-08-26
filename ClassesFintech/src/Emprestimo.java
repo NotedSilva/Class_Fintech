@@ -22,6 +22,7 @@ public class Emprestimo {
         System.out.println("Numero Parcelas: " + numeroParcelas);
         System.out.println("Data: " + dataInicio);
     }
+
     public void calcularValorParcelas() {
         System.out.println("Calcular valor de cada parcela");
     }
@@ -33,5 +34,7 @@ public class Emprestimo {
     public void calcularValorTotal() {
         System.out.println("Calcular valor de total");
     }
+
+
 
 }
